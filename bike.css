@@ -1,0 +1,36 @@
+h1 {
+    color:darkorange;
+    text-align: center;
+    background-color: crimson;
+    /* max-width: 300px; */
+    font-family: 'Dancing Script', cursive;
+    font-size: 8rem;
+    margin: 1rem 0;
+    padding: 3rem 2rem
+
+}
+
+h2 {
+    color:whitesmoke;
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Dancing Script', cursive;
+}
+
+section {
+    color:white;
+    font-family: 'Dancing Script', cursive; 
+    text-align: center;   
+}
+
+section a:link {
+    color: azure;
+}
+
+section a:hover {
+    color:darkgoldenrod
+}
+
+footer {
+    background-color: crimson;
+}
